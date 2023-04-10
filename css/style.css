@@ -1,0 +1,11 @@
+.active {
+    background-color: #F2F2F2F2;
+    color: black !important;
+}
+.list-restaurant .card {
+    display: inline-block;
+    margin: 10px 10px;
+}
+.card-title a{
+    color: inherit;
+}
